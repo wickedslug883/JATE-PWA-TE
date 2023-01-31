@@ -1,2 +1,1 @@
-# JATEPWA
- 
+# Text Editor Starter Code
